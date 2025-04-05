@@ -1,0 +1,2 @@
+https://zhuanlan.zhihu.com/p/166161217?utm_source=zhihu&utm_medium=social&utm_oi=761333986839519232
+CUDA_VISIBLE_DEVICES=0 python train.py
